@@ -1,6 +1,8 @@
 # EMJ_FourHourTarget_DTOC_DataAndCode
 
-This repository contains all data and analysis code used in the Emergency Medicine Journal (EMJ) paper publication: "The impact of Delayed Transfers of Care on Emergency Departments: common sense arguments, evidence and confounding" by authors B.Keogh & T.Monks. This paper completes a statistical analysis of the relationship between breaches of the four-hour emergency department target and numbers of reported patient delayed transfers of care within English hospitals. 
+This repository contains all data and analysis code used in the Emergency Medicine Journal (EMJ) paper publication: "The impact of Delayed Transfers of Care on Emergency Departments: common sense arguments, evidence and confounding" by authors B.Keogh & T.Monks. This paper completes a statistical analysis of the relationship between breaches of the four-hour emergency department target and numbers of reported patient delayed transfers of care within English hospitals.
+
+[![DOI](https://zenodo.org/badge/218557974.svg)](https://zenodo.org/badge/latestdoi/218557974)
 
 ## Data
 The data originates from open NHS England data which can be downloaded here: https://www.england.nhs.uk/statistics/
