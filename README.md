@@ -7,7 +7,7 @@ The data originates from open NHS England data which can be downloaded here: htt
 
 The specific data we have used in the study is provided data in csv format ('NHSE_data.csv').
 
-## installing python
+## Installing python
 If are new to python then the easiest way to get up and running is to download
 the anaconda distribution of python:
 https://www.anaconda.com/download/
