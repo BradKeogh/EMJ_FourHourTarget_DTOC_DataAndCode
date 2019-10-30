@@ -1,0 +1,12 @@
+name: DTOC
+
+dependencies:
+  - python=3.6
+  - scipy=1.1
+  - numpy=1.11
+  - statsmodels=0.8
+  - pandas=0.19.2
+  - matplotlib
+  - seaborn
+  - ipython
+  - jupyter
